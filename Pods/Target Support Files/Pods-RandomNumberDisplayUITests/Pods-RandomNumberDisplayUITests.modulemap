@@ -1,0 +1,6 @@
+framework module Pods_RandomNumberDisplayUITests {
+  umbrella header "Pods-RandomNumberDisplayUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
